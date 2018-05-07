@@ -1,0 +1,5 @@
+{
+  "name": "DDNext - Monster API",
+  "description": "MONSTER API - Some ddnext lists, and later a cr custom monster calculator",
+  "addons": [ "heroku-postgresql" ]
+}
